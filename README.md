@@ -96,8 +96,12 @@ This dashboard addresses these challenges by presenting key performance indicato
 * Dynamic Tooltips
 * Bookmark Navigation
 
-👨‍💻 Author
-Harshit Choudhary
+
+---
+
+# 👨‍💻 Author
+
+**Harshit Choudhary**
 
 📧 Email: harshitchoudhary.connect@gmail.com
 
@@ -105,7 +109,13 @@ Harshit Choudhary
 
 🐙 GitHub: https://github.com/Harshit786zs
 
-🌟 If you found this project useful
+---
+
+# 🌟 If you found this project useful
+
 Give this repository a ⭐ on GitHub!
+
+Feedback and suggestions are always welcome.
+
 
 Feedback and suggestions are always welcome.
