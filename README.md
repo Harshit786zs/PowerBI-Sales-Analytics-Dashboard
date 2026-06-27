@@ -95,3 +95,17 @@ This dashboard addresses these challenges by presenting key performance indicato
 * Row-Level Security (RLS)
 * Dynamic Tooltips
 * Bookmark Navigation
+
+👨‍💻 Author
+Harshit Choudhary
+
+📧 Email: harshitchoudhary.connect@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/harshit-choudhary-31683228b
+
+🐙 GitHub: https://github.com/Harshit786zs
+
+🌟 If you found this project useful
+Give this repository a ⭐ on GitHub!
+
+Feedback and suggestions are always welcome.
